@@ -1,0 +1,2 @@
+Recriando a Interface da Netflix com HTML, CSS, e JavaScript.
+Usando técnicas como container e FlexBox, assim como plugins JQuery, como o site The Movie DataBase(para as imagens em .jpg), owl carousel 2 (para o carrossel de filmes e séries) e o font awesome (para os ícones de play e info).
